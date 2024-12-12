@@ -1,1 +1,7 @@
+<p class=el master>ciao</p>
+<style>
+.el master {
+ color: #ff0000;
+}
 
+</style>
